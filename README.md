@@ -19,7 +19,7 @@
 <a href="https://www.instagram.com/thayla.fenanlo/">
 <img src="https://media4.giphy.com/media/h7p31z5pWVwV1aenEh/giphy.gif?cid=790b7611345a5f6bf3f52c9940fa5bc5e18122d4f0fab235&rid=giphy.gif&ct=s" width="30px" alt="insta" align="right">
 </a>
-<a href="https://discord.com/channels/@me/677982478480441373/">
+<a href="https://discord.com/channels/677982478480441373">
 <img src="https://i.pinimg.com/originals/18/8b/f7/188bf758bf9e1a0109190c4d4b6636fb.png" width="30px" alt="discord" align="right">
 </a>
 <footer align="left"><i>Readme being updated as it evolves</i></footer>
