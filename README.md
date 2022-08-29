@@ -24,4 +24,4 @@
 </a>
 <footer align="left"><i>Readme being updated as it evolves</i></footer>
 
-<img src="https://i.pinimg.com/originals/c4/ff/30/c4ff30021f8e89f84ad75cde6f58aeb0.gif" width="900px" height="40px" alt="separador">
+<img src="https://i.pinimg.com/originals/c4/ff/30/c4ff30021f8e89f84ad75cde6f58aeb0.gif" width="800px" height="40px" alt="separador">
