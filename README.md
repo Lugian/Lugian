@@ -5,7 +5,7 @@
 
 <p><img src="https://i.pinimg.com/originals/73/69/6e/73696e022df7cd5cb3d999c6875361dd.gif" width="70px" align="left" alt="Image study"><br><strong>Systems Development</strong> Technician, Senai - <i>Attending</i></p><br>
 
-<p><img src="https://i.pinimg.com/originals/73/69/6e/73696e022df7cd5cb3d999c6875361dd.gif" width="70px" align="left" alt="Image study"><br><strong>Eletronics</strong> Technician, Cotuca - Unicamp - <i>Attending</i> </p>
+<p><img src="https://i.pinimg.com/originals/73/69/6e/73696e022df7cd5cb3d999c6875361dd.gif" width="70px" align="left" alt="Image study"><br><strong>Eletronics</strong> Technician, Cotuca - Unicamp - <i>Attending</i> </p><br>
 
 <h3 align="middle">Languages</h3>
 <li style="list-style:none;" align="center">
