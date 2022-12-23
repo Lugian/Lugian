@@ -7,12 +7,15 @@
 
 <p><img src="https://i.pinimg.com/originals/73/69/6e/73696e022df7cd5cb3d999c6875361dd.gif" width="70px" align="left" alt="Image study"><br><strong>Eletronics</strong> Technician, Cotuca - Unicamp - <i>Attending</i> </p><br>
 
+<p><img src="https://i.pinimg.com/originals/73/69/6e/73696e022df7cd5cb3d999c6875361dd.gif" width="70px" align="left" alt="Image study"><br><strong>Cloud Deployment
+</strong> Fundamentals - Google - <i>Finished</i> </p><br>
+
 <h3 align="middle">Languages</h3>
 <li style="list-style:none;" align="center">
                 <img src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" width="44px" alt="python">
                 <img src="https://logospng.org/download/css-3/logo-css-3-768.png" width="50px" alt="css">
                 <img src="https://davidwalsh.name/demo/html5250.png?preview" width="45px" alt="html">
-                <img                   src="https://camo.githubusercontent.com/d3906162b383f428da6952e9da7cf1467cd4ffda1d90283c83b559272ec977dc/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3531322f632d70726f6772616d6d696e672d3536393536342e706e67" width="45px" alt="c">
+                <img src="https://cdn.cdnlogo.com/logos/j/69/javascript.svg" width="40px" alt="c">
 </li><br>
 
 <p align="right"> <strong><i>A pinch of me</i></strong></p>
