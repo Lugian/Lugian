@@ -9,12 +9,5 @@
 <p><img src="https://o.remove.bg/downloads/5b23a65b-53c1-46c7-9f21-4753bb1ad2fa/imagem_2023-02-12_131359373-removebg-preview.png" width="60px" align="left" alt="Image study"><br><strong>Cloud Deployment
 </strong> Fundamentals - Google - <i>Finished</i> </p><br>
 
-<h3 align="middle">Development languages</h3>
-<li style="list-style:none;" align="center">
-                <img src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" width="40px" alt="python">
-                <img src="https://logospng.org/download/css-3/logo-css-3-768.png" width="46px" alt="css">
-                <img src="https://davidwalsh.name/demo/html5250.png?preview" width="41px" alt="html">
-                <img src="https://cdn.cdnlogo.com/logos/j/69/javascript.svg" width="36px" alt="c">
-</li><br>
 
 <img src="https://i.pinimg.com/564x/be/34/23/be3423e7324d400b4c5b9fee077d848a.jpg" width="800px" height="1px" alt="separador">
