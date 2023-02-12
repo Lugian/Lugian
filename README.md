@@ -17,7 +17,4 @@
                 <img src="https://cdn.cdnlogo.com/logos/j/69/javascript.svg" width="36px" alt="c">
 </li><br>
 
-
-<footer align="left"><i>Readme being updated as it evolves</i></footer>
-
 <img src="https://i.pinimg.com/564x/be/34/23/be3423e7324d400b4c5b9fee077d848a.jpg" width="800px" height="1px" alt="separador">
