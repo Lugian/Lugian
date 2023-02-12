@@ -1,6 +1,6 @@
 <h2 align="center"><img src="https://i.pinimg.com/originals/2f/c1/b8/2fc1b8f82e14172e3bcae39ca8c8ab33.gif" width="30px" altf="doc"> You fell into the profile of the <s>incredible</s> <strong>Lugian</strong>. </h2><br>
-<img src="https://i.pinimg.com/originals/ee/b0/55/eeb05565faf5fa022fed944877b81ce2.png" min-width="400px" max-width="400px" width="400px" align="left" alt="Image pastel computer">
-<br><p align="right"> Hi, i'm Thayla Lugiannatiello Fernandes (an awesome future programmer), <i>better</i>, actually i'm just a beginner in the programming area. </p>
+<img src="https://i.pinimg.com/originals/ee/b0/55/eeb05565faf5fa022fed944877b81ce2.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Image pastel computer">
+<br><p align="left"> Hi, i'm Thayla Lugiannatiello Fernandes (an awesome future programmer), <i>better</i>, actually i'm just a beginner in the programming area. </p>
 
 <p><img src="https://i.pinimg.com/originals/73/69/6e/73696e022df7cd5cb3d999c6875361dd.gif" width="70px" align="left" alt="Image study"><br><strong>Systems Development</strong> Technician, Senai - <i>Attending</i></p><br>
 
