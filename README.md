@@ -3,10 +3,10 @@
 
 <img src="https://i.pinimg.com/originals/61/0c/14/610c14fc2da4bc21aa0943674582fde4.gif" width="900px" height="1px" alt="separador">
 
-<p><img src="https://pngimage.net/wp-content/uploads/2018/06/white-circle-png-transparent-7.png" width="15px" align="left" alt="Image study"><strong>Systems Development</strong> Technician - Senai - <i>Attending</i></p><br>
+<p align="center"><strong>Systems Development</strong> Technician - Senai - <i>Attending</i></p><br>
 
-<p><img src="https://pngimage.net/wp-content/uploads/2018/06/white-circle-png-transparent-7.png" width="15px" align="left" alt="Image study"><strong>Eletronics</strong> Technician, Cotuca - Unicamp - <i>Attending</i> </p><br>
+<p align="center"><strong>Eletronics</strong> Technician, Cotuca - Unicamp - <i>Attending</i> </p><br>
 
-<p><img src="https://pngimage.net/wp-content/uploads/2018/06/white-circle-png-transparent-7.png" width="15px" align="left" alt="Image study"><strong>Cloud Deployment</strong> Fundamentals - Google - <i>Finished</i> </p><br>
+<p align="center"><strong>Cloud Deployment</strong> Fundamentals - Google - <i>Finished</i> </p><br>
 
 
