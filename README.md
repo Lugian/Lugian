@@ -1,5 +1,4 @@
 <h2 align="center"><img src="https://i.pinimg.com/originals/53/04/96/530496f5dcf65046e8c0360d7d89b10a.gif" width="30px" altf="doc"> You fell into the profile of <strong>Lugian</strong></h2><br>
-<img src="https://i.imgur.com/BdkH3Ud.png" min-width="400px" max-width="400px" width="400px" align="left" alt="Image pastel computer">
 <br><p align="right"> Hi, i'm Thayla (an awesome future programmer), <i>better</i>, actually i'm just a beginner in the programming area. </p>
 
 <p><img src="https://i.imgur.com/CA1prmP.png" width="60px" align="left" alt="Image study"><br><strong>Systems Development</strong> Technician - Senai - <i>Attending</i></p><br>
