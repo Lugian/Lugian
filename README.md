@@ -11,3 +11,6 @@
 > 🎛  **Eletronics** Technician, Cotuca - Unicamp - *Attending*
 
 > ☁️ **Cloud Deployment** Fundamentals - Google - *Finished*
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lugian&langs_count=4&title_color=703dff&text_color=ffffff&border_color=280099&bg_color=DEG,0f003b,000e57&custom_title=Development+languages&hide_progress=true)
