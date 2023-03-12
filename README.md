@@ -4,7 +4,7 @@
 <p align="center"> Hi, i'm Thayla (an awesome future programmer), <i>better</i>, actually i'm just a beginner in the programming area. </p>
 
 <img src="https://i.pinimg.com/originals/61/0c/14/610c14fc2da4bc21aa0943674582fde4.gif" width="900px" height="1px" alt="separador">
-<br></br>
+<br>
 
 > 🖥  **Systems Developmente** Technician - Senai - *Attending*
 
@@ -13,4 +13,8 @@
 > ☁️ **Cloud Deployment** Fundamentals - Google - *Finished*
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lugian&langs_count=4&title_color=703dff&text_color=ffffff&border_color=280099&bg_color=DEG,0f003b,000e57&custom_title=Development+languages&hide_progress=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lugian&langs_count=4&title_color=703dff&text_color=ffffff&border_color=280099&bg_color=DEG,0f003b,000e57&custom_title=Languages&hide_progress=true" />
+</div>
+
+
