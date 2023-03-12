@@ -6,9 +6,8 @@
 <img src="https://i.pinimg.com/originals/61/0c/14/610c14fc2da4bc21aa0943674582fde4.gif" width="900px" height="1px" alt="separador">
 <br></br>
 
-<p align="center"><b>Systems Development</b> Technician - Senai - <i>Attending</i></p><br>
+> 🖥  **Systems Developmente** Technician - Senai - *Attending*
 
-<p align="center"><b>Eletronics</b> Technician, Cotuca - Unicamp - <i>Attending</i> </p><br>
+> 🎛  **Eletronics** Technician, Cotuca - Unicamp - *Attending*
 
-<p align="center"><b>Cloud Deployment</b> Fundamentals - Google - <i>Finished</i> </p><br>
-
+> ☁️ **Cloud Deployment** Fundamentals - Google - *Finished*
