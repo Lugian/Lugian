@@ -11,6 +11,8 @@
 > 🎛  **Eletronics** Technician, Cotuca - Unicamp - *Attending*
 
 > ☁️ **Cloud Deployment** Fundamentals - Google - *Finished*
+
+> ⚙️ **Azure Data** Fundamentals - Microsoft - *Attending*
 <br>
 
 <div align="center">
