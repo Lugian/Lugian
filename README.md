@@ -12,7 +12,7 @@
 
 > ☁️ **Cloud Deployment** Fundamentals - Google - *Finished*
 
-> ⚙️ **Azure Data** Fundamentals - Microsoft - *Attending*
+> ⚙️ **Azure Data** Fundamentals - Microsoft - *Finished*
 <br>
 
 <div align="center">
