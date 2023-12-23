@@ -6,7 +6,7 @@
 <img src="https://i.pinimg.com/originals/61/0c/14/610c14fc2da4bc21aa0943674582fde4.gif" width="900px" height="1px" alt="separador">
 <br>
 
-> 🖥  **Systems Developmente** Technician - Senai - *Attending*
+> 🖥  **Systems Developmente** Technician - Senai - *Finished*
 
 > 🎛  **Eletronics** Technician, Cotuca - Unicamp - *Attending*
 
